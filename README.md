@@ -5,7 +5,7 @@
 
 ---
 ## Dê uma olhada nas minha rede social!
-![Badge](https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin&logoColor=white&style=for-the-badge)[www.linkedin.com/in/liviaadeev]
+[![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/liviaadeev/) 
 
 ---
 ## 🚀Tecnologias que estou aprendendo
@@ -17,11 +17,7 @@
 ---
 
 ## Minhas estatísticas
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?LiviaRosaa&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?LiviaRosaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liviaRosaa&theme=solarized_dark)](#)
 
 ---
 ## Obrigado por visitar meu perfil
