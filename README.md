@@ -15,9 +15,10 @@
 ![Badge](https://img.shields.io/badge/-C-grey?logo=c&logoColor=black&style=for-the-badge)
 
 ---
-## Minhas estatísticas...
+## 📊 Snake de Contribuições
 
-![Snake animation](https://github.com/LiviaRosaa/LiviaRosaa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LiviaRosaa/LiviaRosaa/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 ## Obrigado por visitar meu perfil
