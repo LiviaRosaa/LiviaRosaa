@@ -1,7 +1,7 @@
 ## 👋oie! eu sou a Livia Rosa
 
-✨ Desenvolvedora em formação | Estudante de Engenharia de Software da UTFPR
-🎯 Apaixonada por tecnologia, educação e projetos com propósito  
+-✨ Desenvolvedora em formação | Estudante de Engenharia de Software da UTFPR
+-🎯 Apaixonada por tecnologia, educação e projetos com propósito  
 
 ---
 ## Dê uma olhada nas minha rede social!
