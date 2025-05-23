@@ -5,7 +5,7 @@
 
 ---
 ## Dê uma olhada nas minha rede social!
-[![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/liviaadeev/) 
+[![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/liviaadeev) 
 
 ---
 ## 🚀Tecnologias que estou aprendendo
