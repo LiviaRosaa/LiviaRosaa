@@ -16,12 +16,9 @@
 
 ---
 ## Minhas estatísticas...
-<div>
-<a href="https://github.com/LiviaRosaa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?LiviaRosaa&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?LiviaRosaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 ![Snake animation](https://github.com/LiviaRosaa/LiviaRosaa/blob/output/github-contribution-grid-snake.svg)
+
 ---
 ## Obrigado por visitar meu perfil
 Meus projetos principais estão aqui em baixo:
