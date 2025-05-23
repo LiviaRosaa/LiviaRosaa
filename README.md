@@ -7,7 +7,7 @@
 ## 💬 Vamos conversar?
 
 - ✉️ **Email**: liviaalmeidarosa20@gmail.com
-- 💼 **LinkedIn**: [www.linkedin.com/in/liviaadeev](www.linkedin.com/in/liviaadeev)
+- 💼 **LinkedIn**: www.linkedin.com/in/liviaadeev
 
 ---
 ## 🚀Tecnologias que estou aprendendo
