@@ -19,7 +19,6 @@
 
 ![snake gif](https://github.com/LiviaRosaa/LiviaRosaa/blob/output/github-contribution-grid-snake.svg)
 
-
 ---
 ## Obrigado por visitar meu perfil
 Meus projetos principais estão aqui em baixo:
