@@ -4,8 +4,10 @@
 -🎯 Apaixonada por tecnologia, educação e projetos com propósito  
 
 ---
-## Dê uma olhada nas minha rede social!
-[![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/liviaadeev) 
+## 💬 Vamos conversar?
+
+- ✉️ **Email**: liviaalmeidarosa20@gmail.com
+- 💼 **LinkedIn**: [www.linkedin.com/in/liviaadeev](www.linkedin.com/in/liviaadeev)
 
 ---
 ## 🚀Tecnologias que estou aprendendo
